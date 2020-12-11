@@ -7,11 +7,11 @@
     border: 2px solid black;
     margin-bottom: 1%;
     position: relative;
+    height: 150px;
 }
 
 .row {
     width: 100%;
-    
 }
 
 p {
